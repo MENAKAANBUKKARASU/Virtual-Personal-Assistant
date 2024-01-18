@@ -3,6 +3,10 @@
 ## What is it?
 VPA (Virtual Personal Assistant) is a website helping students manage their tasks by understanding their strengths through an IQ test. It personalizes assignments and offers a roadmap for success, also acting as a hub for online learning resources.
 
+## Live Demo
+
+🚀 Check out the live demo [((https://menakaanbukkarasu.github.io/Virtual-Personal-Assitant/))] to start building your resume!
+
 ## Technologies Used
 - HTML
 - CSS
