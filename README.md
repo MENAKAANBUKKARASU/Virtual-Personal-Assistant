@@ -5,7 +5,7 @@ VPA (Virtual Personal Assistant) is a website helping students manage their task
 
 ## Live Demo
 
-🚀 Check out the live demo [((https://menakaanbukkarasu.github.io/Virtual-Personal-Assitant/))] to start building your resume!
+🚀 Check out the live demo [((https://menakaanbukkarasu.github.io/Virtual-Personal-Assistant/))] to start building your resume!
 
 ## Technologies Used
 - HTML
